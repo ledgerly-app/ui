@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/ledgerly-app/ui/discussions/new?category=q-a
+    about: Ask the community for help
+  - name: Request a feature
+    url: https://github.com/ledgerly-app/ui/discussions/new?category=ideas
+    about: Share ideas for new features
+  - name: Report a security vulnerability
+    url: https://github.com/ledgerly-app/ui/security/policy
+    about: Learn how to notify us for sensitive security vulnerabilities
