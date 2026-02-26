@@ -14,7 +14,7 @@
     "require": {
         "php": "^8.2",
         "illuminate/support": "^11.0|^12.0",
-        "ledgerly-app/core": "^0.1 || ^0.4"
+        "ledgerly-app/core": "^0.1 || ^0.4 || ^0.9"
     },
     "require-dev": {
         "laravel/pint": "^1.14",
